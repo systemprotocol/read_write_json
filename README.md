@@ -1,0 +1,2 @@
+# read_write_json
+I wrote a php class called flatten() which has to functions within it, first function called run() reads from the test.json and flattens the multidimensional array which is within the test.json file. The results from this function is then called by the second function called write(), this function then writes the results from the first function into a new json file called flat.json. The php class runs when the user click on the button named "click here to run function".
